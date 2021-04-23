@@ -1,4 +1,4 @@
-# Metamodelling of Pandit-Hinch-Neiderer-Model Using Heirarchical Cluster Based Parial Least Squared Regression (HCPLSR) and Deep Learning
+# Metamodelling of Pandit-Hinch-Niederer-Model Using Hierarchical Cluster Based Parial Least Squared Regression (HCPLSR) and Deep Learning
 
 The mechanistic models aimed at realistically describing biological processes such as the generation of the cardiac action potential are complex. They incorporate a large number of parameters and state variables. These parameters and state variables are linked together by a set of non-linear differential equations interconnected by complex feedback mechanisms. Hence, it is very challenging to determine the relationship between such model outputs and input parameter variation. The complex nature of these models also
 make them computationally expensive.
